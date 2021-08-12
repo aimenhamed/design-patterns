@@ -12,6 +12,8 @@ repository for learning design patterns
 
 - Strategy 🟥
 
+- Decorator 🟥
+
 - Template Method 🟥
 
 - Command 🟥
