@@ -10,7 +10,7 @@ repository for learning design patterns
 
 - Iterator 🟥
 
-- Strategy 🟥
+- Strategy 🟩
 
 - Decorator 🟥
 
