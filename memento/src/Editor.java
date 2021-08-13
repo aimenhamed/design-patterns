@@ -1,5 +1,3 @@
-package src;
-
 public class Editor {
     private String content;
 
